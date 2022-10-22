@@ -16,7 +16,7 @@ Contenidos
 
 #### Programado por Bryan
 
-#Sebastian Ocho Muñoz
-#Sebastian Gallego Bedoya
-#Lewis Suarez
-#Bryan Londoño Gonzales
+####Sebastian Ocho Muñoz
+####Sebastian Gallego Bedoya
+####Lewis Suarez
+####Bryan Londoño Gonzales
