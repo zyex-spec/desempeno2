@@ -14,7 +14,7 @@ Contenidos
 - Punto 2
 - Punto 3
 
-#### Programado por Bryan
+#### Integrantes
 
 - Sebastian Ocho Muñoz
 - Sebastian Gallego Bedoya
