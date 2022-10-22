@@ -43,3 +43,41 @@ cuenta1.saldo = '5000'
 
 cuenta1.print_numCuenta()
 cuenta1.print_saldo()
+
+guardian  = 100
+
+
+## Ciclo While
+print("Menu")
+print("1.Consultar Saldo")
+print("2. Ingresar ")
+print("3.Retirar")
+print("0. Salir")
+while guardian!=0:
+    
+    guardian = int(input("Digita una opcion"))
+    if guardian ==1:
+         print(f"El saldo es  $" + (cuenta1.saldo) )
+         
+    elif guardian ==2:
+         dinero = int(input("Digita el monto"))
+         suma = dinero + int(cuenta1.saldo)
+         print(suma)
+    
+    elif guardian ==3:
+         dinero2 = int(input("Digita el monto a restar"))
+         resta =int(cuenta1.saldo) - dinero2 
+         print(resta)
+
+    
+    elif guardian ==0:
+         print()
+
+        
+    elif guardian ==0:
+        break
+    else:
+        print("no valido")
+
+else:
+    print("Terminé")
